@@ -1,0 +1,6 @@
+# binaries
+coilboi
+bin/
+
+# editor stuff
+.vscode/
